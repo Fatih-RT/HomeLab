@@ -62,8 +62,6 @@ N'hésitez pas à proposer des améliorations ou à signaler des bugs via des is
 
 
 ##  Contact
-	
- Pour toute question ou suggestion, n’hésitez pas à me contacter :
  
 -	Auteur : Fatih KILIC
 -	GitHub : [https://github.com/Fatih-RT](https://github.com/Fatih-RT)

@@ -40,7 +40,7 @@ Basé sur Samba pour un partage de fichiers local.
 
 ## Arborescence du projet
 ```plaintext
-homelab-project/
+HomeLab/
     ├── README.md
     ├── docker-compose.yml
     ├── .env
